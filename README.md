@@ -8,6 +8,8 @@ Get the session materials:
 
 Or:
 
+* Navigate your browser to: http://bit.ly/predocs_nov2015
+
 * `git clone https://github.com/davismcc/embl_predocs_data_analysis_in_R_Nov2015` in your favourite folder
 
 * Download `.zip` from https://github.com/davismcc/embl_predocs_data_analysis_in_R_Nov2015
