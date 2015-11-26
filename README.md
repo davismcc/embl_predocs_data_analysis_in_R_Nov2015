@@ -4,7 +4,9 @@ Materials for a short session on "Data Analysis in R" for EMBL predocs covering 
 
 Get the session materials:
 
-* Access locally on Training Room computer
+* **[Easiest]** Access locally on Training Room computer
+
+Or:
 
 * `git clone https://github.com/davismcc/embl_predocs_data_analysis_in_R_Nov2015` in your favourite folder
 

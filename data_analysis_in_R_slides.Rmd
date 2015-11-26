@@ -53,6 +53,8 @@ Get the session materials:
 
 * **[Easiest]** Access locally on Training Room computer
 
+Or: 
+
 * Navigate your browser to: http://bit.ly/predocs_nov2015
 
 * `git clone https://github.com/davismcc/embl_predocs_data_analysis_in_R_Nov2015` in your favourite folder
